@@ -10,4 +10,6 @@ Je vous donne les accés. Totalement Gratuitement Mais des règles:
 
 Bon Code !
 
+faite npm i
+
 # Copyright © 2020-2022 Undercraft - Tous droits réservés.

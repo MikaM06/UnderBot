@@ -1,0 +1,18 @@
+{
+  "name": "underbot",
+  "version": "1.0.1",
+  "description": "Le bot officiel de Undercraft !",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MikaM06, Fabien_Ferrari",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^0.4.1",
+    "canvas": "^2.9.1",
+    "discord.js": "^13.7.0",
+    "moment": "^2.29.3",
+    "ms": "^2.1.3"
+  }
+}
